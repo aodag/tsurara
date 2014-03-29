@@ -1,0 +1,3 @@
+[submodule "apps/biscuit.blog"]
+	path = apps/biscuit.blog
+	url = git@github.com:aodag/biscuit.blog.git
