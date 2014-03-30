@@ -1,0 +1,15 @@
+directory: apps/biscuit.blog.assets
+url: /
+debug: true
+auto_build: true
+bundles:
+  js-all:
+    filters: jsmin
+    output: gen/all.js
+    contents:
+      - bower_components/jquery/dist/jquery.js
+      - bower_components/bootstrap/dist/js/bootstrap.js
+  css-all:
+    output: gen/all.css
+    contents:
+      - bower_components/bootstrap/dist/css/bootstrap.css

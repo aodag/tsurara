@@ -4,3 +4,12 @@
 [submodule "tools/bib"]
 	path = tools/bib
 	url = git@github.com:aodag/bib.git
+[submodule "apps/biscuit.blog.assets"]
+	path = apps/biscuit.blog.assets
+	url = git@github.com:aodag/biscuit.blog.assets.git
+[submodule "tools/tsurara.startup"]
+	path = tools/tsurara.startup
+	url = git@github.com:aodag/tsurara.startup.git
+[submodule "libs/WebDispatch"]
+	path = libs/WebDispatch
+	url = git@github.com:aodag/WebDispatch.git
